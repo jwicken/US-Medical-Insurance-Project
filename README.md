@@ -1,4 +1,4 @@
-# Codecademy's 'US-Medical-Insurance-Project'
+'US-Medical-Insurance-Project'
 
 This project was completed early on in my Data Analytics journey. 
 
